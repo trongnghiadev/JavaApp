@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503620095798",
+    "project_id": "trongnghiashopapp",
+    "storage_bucket": "trongnghiashopapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503620095798:android:84208da0025b2449d56d97",
+        "android_client_info": {
+          "package_name": "com.example.appfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503620095798-hu3gsdk821tbqugs5av9tk5s90kcjt4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHMtILNfXkggPiqHRrrdYxnh_50YB0RiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503620095798-hu3gsdk821tbqugs5av9tk5s90kcjt4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

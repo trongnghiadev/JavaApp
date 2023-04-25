@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_contact.xml" value="0.3625" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_content_bill.xml" value="0.18541666666666667" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_content_product.xml" value="0.18541666666666667" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_dangsanpham.xml" value="0.1762917933130699" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_home.xml" value="0.3625" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_home_admin.xml" value="0.18541666666666667" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_maps.xml" value="0.1762917933130699" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_payment.xml" value="0.1762917933130699" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_product.xml" value="0.1762917933130699" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_search.xml" value="0.18541666666666667" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/activity_sign_in.xml" value="0.18541666666666667" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/dong_sanpham.xml" value="0.1762917933130699" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/dong_sanphammicay.xml" value="0.18541666666666667" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/fragment_bill.xml" value="0.18541666666666667" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/fragment_profile.xml" value="0.18541666666666667" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/fragment_thongtinungdung.xml" value="0.1762917933130699" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/item_product.xml" value="0.1762917933130699" />
+        <entry key="..\:/laptrinhdidong/AppFoodOnline3/app/src/main/res/layout/layouttest.xml" value="0.1762917933130699" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

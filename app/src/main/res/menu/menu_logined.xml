@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+      <item android:title="Dash Board">
+          <menu>
+              <item
+                  android:id="@+id/home"
+                  android:icon="@drawable/icon_home"
+                  android:title=" Trang Chủ"/>
+              <item
+                  android:id="@+id/danhmuc"
+                  android:icon="@drawable/icon_category"
+                  android:title="Danh Mục"/>
+              <item
+                  android:id="@+id/your_cart"
+                  android:icon="@drawable/icon_cart"
+                  android:title="Giỏ Hàng"/>
+              <item
+                  android:id="@+id/your_bill"
+                  android:icon="@drawable/icon_order"
+                  android:title="Đơn hàng của bạn"/>
+              <item
+                  android:id="@+id/your_profile"
+                  android:icon="@drawable/icon_person"
+                  android:title="Thông Tin Cá Nhân"/>
+
+              <item
+                  android:id="@+id/signout"
+                  android:icon="@drawable/icon_logout"
+                  android:title="Đăng Xuất"/>
+          </menu>
+      </item>
+    </group>
+    <group>
+        <item android:title="Other">
+            <menu>
+
+                <item
+                    android:id="@+id/lienhe"
+                    android:icon="@drawable/icon_contact"
+                    android:title="Liên Hệ"
+                    />
+                <item
+                    android:id="@+id/thongtinungdung"
+                    android:icon="@drawable/icon_info"
+                    android:title="Thông Tin Ứng dụng"/>
+
+            </menu>
+        </item>
+    </group>
+
+</menu>

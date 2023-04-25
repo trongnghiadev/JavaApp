@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TNA Food3</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="title_activity_maps_lien_he_cua_hang">MapsLienHeCuaHangActivity</string>
+    <string name="admin">Đăng nhập dành cho quản trị viên</string>
+    <string name="action_home">Trang Chủ</string>
+    <string name="action_profile">Tôi</string>
+    <string name="action_favorite">Danh Mục</string>
+    <string name="action_giohang">Giỏ Hàng</string>
+    <string name="action_bill">Thanh Toán</string>
+    <string name="log_in">Log In</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="fontfm">sans-serif</string>
+    <string name="find">Tìm kiếm món ăn</string>
+    <string name="diachi">10 QL22, Tân Xuân, Hóc Môn, Thành phố Hồ Chí Minh</string>
+    <string name="ten1">Mai Văn Trọng Nghĩa	20DH112095</string>
+    <string name="ten2">Nguyễn Ngọc Anh	20DH111916</string>
+    <string name="ten3">Phạm Thanh Trúc	20DH110423</string>
+</resources>

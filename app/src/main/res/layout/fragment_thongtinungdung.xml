@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ThongtinungdungFragment"
+    android:background="@drawable/backgroudadmin">
+
+    <ImageView
+        android:src="@drawable/logo_app_white"
+        android:layout_width="150dp"
+        android:layout_height="152dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="10dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:padding="5dp"
+        android:layout_marginTop="20dp">
+
+    <TextView
+        android:id="@+id/tx_nguoi_sx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15sp"
+
+        android:textColor="#ff0000"
+        android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tx_tennhom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tx_nguoi_sx"
+            android:layout_marginStart="15sp"
+            android:layout_marginTop="-10dp"
+
+
+            android:textAllCaps="true"
+            android:textColor="@color/colorBlack"
+            android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tx_tvnhom"
+        android:layout_below="@id/tx_tennhom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="10dp"
+        android:text="Thành viên nhóm:"
+        android:textAllCaps="true"
+        android:textColor="#ff0000"
+        android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tx_tentv1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tx_tvnhom"
+            android:layout_marginStart="15sp"
+            android:layout_marginTop="7dp"
+            android:text="@string/ten1"
+            android:textColor="@color/colorBlack"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/tx_tentv2"
+            android:layout_below="@id/tx_tentv1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15sp"
+            android:layout_marginTop="7dp"
+            android:text="@string/ten2"
+            android:textColor="@color/colorBlack"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tx_tentv3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tx_tentv2"
+            android:layout_marginStart="15sp"
+            android:layout_marginTop="7dp"
+            android:text="@string/ten3"
+            android:textColor="@color/colorBlack"
+            android:textSize="15sp" />
+
+
+        <TextView
+            android:id="@+id/tx_chanthanhcamon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tx_tentv3"
+            android:layout_marginStart="15sp"
+            android:layout_marginTop="15sp"
+            android:layout_marginEnd="15sp"
+            android:layout_marginBottom="15sp"
+            android:text="Người hướng dẫn "
+            android:textColor="#ff0000"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/tx_sdt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tx_chanthanhcamon"
+            android:layout_marginStart="15sp"
+            android:layout_marginTop="-10dp"
+            android:text="Th.S Thái Thị Thanh Thảo"
+            android:textAllCaps="true"
+            android:textColor="@color/colorBlack"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tx_chudiachi"
+            android:layout_below="@id/tx_sdt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15sp"
+            android:layout_marginTop="10dp"
+            android:text="Địa chỉ:"
+            android:textAllCaps="true"
+            android:textColor="#ff0000"
+            android:textSize="15sp" />
+    <TextView
+        android:id="@+id/tx_diachi"
+        android:layout_below="@id/tx_chudiachi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="8dp"
+        android:text="@string/diachi"
+        android:textAllCaps="true"
+        android:textColor="@color/colorBlack"
+        android:textSize="15sp" />
+
+
+        <TextView
+            android:id="@+id/tx_tttacgia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tx_diachi"
+            android:layout_marginStart="15sp"
+            android:layout_marginTop="8dp"
+
+            android:textAllCaps="true"
+            android:textColor="#ff0000"
+            android:textSize="15sp" />
+
+        <TextView
+        android:id="@+id/tx_tacgia"
+        android:layout_below="@id/tx_tttacgia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15sp"
+        android:layout_marginTop="8dp"
+        android:text=" "
+        android:textAllCaps="true"
+        android:textColor="@color/colorBlack"
+        android:textSize="15sp" />
+    </RelativeLayout>
+</LinearLayout>
